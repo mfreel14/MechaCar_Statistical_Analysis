@@ -19,3 +19,8 @@ Does the current manufacturing data meet this design specification for all manuf
 Lot Summary
 <img width="487" alt="Screen Shot 2021-10-05 at 2 16 44 PM" src="https://user-images.githubusercontent.com/691355/136103918-3da26026-296b-42ee-88e4-52b9de59ecac.png">
 
+
+Total Summary
+<img width="328" alt="Screen Shot 2021-10-05 at 2 19 39 PM" src="https://user-images.githubusercontent.com/691355/136104310-bc5c4ab1-be06-490e-a5be-4c624239fea7.png">
+
+## T-Tests on Suspension Coils
