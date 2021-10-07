@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 
 
 
@@ -6,7 +6,7 @@
 
 <img width="882" alt="Screen Shot 2021-10-05 at 1 40 14 PM" src="https://user-images.githubusercontent.com/691355/136099384-8c0c5777-c4ba-47fb-9a91-b1354ecab8ba.png">
 
-Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 The Vehicle Weight, Spoiler Angle and AWD had a non-random amount of variance to the mpg values.  The most random amount of variance came from Vehicle Weight and Ground Clearence.
 
