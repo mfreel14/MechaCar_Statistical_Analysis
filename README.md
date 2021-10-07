@@ -71,8 +71,11 @@ true mean is not equal to 1500 95 percent confidence interval:
 
 We could further quanify how MechaCar performs against the competition in regards to cost and color.  The study would compare colors and cost to determine if there is a correlation to why one model would be more popular then another.
 
+
 The null hypothesis and alternative hypothesis for this proposed study are as follows:
+
 Ho: MechaCar would have higher sales with speicifc colors and prices and would perform well against competitors.
+
 Ha: MechaCar would not higher sales with speicifc colors and prices and would not perform well against competitors.
 
 With the collected data for the metrics, Multiple Linear Regressions would be used to find variables that affect sales of similar vehicles.  
