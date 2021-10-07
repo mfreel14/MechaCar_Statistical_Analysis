@@ -69,10 +69,12 @@ true mean is not equal to 1500 95 percent confidence interval:
 
 ## Study Design: MechaCar vs Competition.
 
+We could further quanify how MechaCar performs against the competition in regards to cost and color.  The study would compare colors and cost to determine if there is a correlation to why one model would be more popular then another.
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+The null hypothesis and alternative hypothesis for this proposed study are as follows:
+Ho: MechaCar would have higher sales with speicifc colors and prices and would perform well against competitors.
+Ha: MechaCar would not higher sales with speicifc colors and prices and would not perform well against competitors.
+
+With the collected data for the metrics, Multiple Linear Regressions would be used to find variables that affect sales of similar vehicles.  
+
+If the statistics analysis supports specific colors and prices impact sales it would be recommended to produce more vehciles of a certain color and adjust prices through promotions to upport sales growth.
