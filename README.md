@@ -34,3 +34,16 @@ The design specifications for the MechaCar suspension coils dictate that the var
 The total summary (62.29) meets the variance of the suspension coils not exceeding 100 pounds per square inch.  Both lots 1 (0.98) and 2 (7.47) meets the variance of suspension coils not exceeding 100 pounds per square inch.  Lot 3 (170.29) does not meet the variance specifications.
 
 ## T-Tests on Suspension Coils
+
+Suspension Table T-Test
+
+<img width="435" alt="Screen Shot 2021-10-07 at 1 04 06 PM" src="https://user-images.githubusercontent.com/691355/136454350-7ea6824b-140b-48f3-8f00-faa4d50bc0d3.png">
+
+The Suspensioh Table T-Test results across all manufactoring lots was not statistically different from the population mean.  
+true mean is not equal to 1500 95 percent confidence interval:
+1497.507 1500.053
+
+Lot 1 T-Test
+
+<img width="445" alt="Screen Shot 2021-10-07 at 1 15 23 PM" src="https://user-images.githubusercontent.com/691355/136455738-592785f1-b62b-4588-9d86-c693fd44f6c1.png">
+
